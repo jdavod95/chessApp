@@ -1,0 +1,26 @@
+table{
+	border: 0px;
+	border-collapse: collapse;
+	border-spacing: 0px;
+}
+td{
+	padding: 0px;
+}
+table div{	
+	width: 60px;
+	height: 60px;
+}
+
+
+.d_pawn		{background-image: url("black_pawn.png");}
+.d_knight	{background-image: url("black_knight.png");}
+.d_rook		{background-image: url("black_rook.png");}
+.d_bishop	{background-image: url("black_pawn.png");}
+.d_queen	{background-image: url("black_queen.png");}
+.d_king		{background-image: url("black_king.png");}
+.l_pawn		{background-image: url("light_pawn.png");}
+.l_knight	{background-image: url("light_knight.png");}
+.l_rook		{background-image: url("light_rook.png");}
+.l_bishop	{background-image: url("light_bishop.png");}
+.l_queen	{background-image: url("light_queen.png");}
+.l_king		{background-image: url("light_king.png");}
